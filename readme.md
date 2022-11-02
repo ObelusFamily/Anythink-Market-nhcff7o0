@@ -10,4 +10,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
+In order to have the app running on the local machine you need to run following the command in the terminal:
+- docker-compose up.
+This command will start the backend and frontend server including the database. Once, the server is up and running you need to click on the browser url given in the terminal.
+
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
